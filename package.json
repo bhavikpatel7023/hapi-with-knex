@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^18.4.0",
+    "@hapi/hapi": "^19.1.1",
     "bookshelf": "^1.0.1",
     "bookshelf-eloquent": "^0.1.15",
     "bookshelf-modelbase": "^2.10.4",
