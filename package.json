@@ -17,7 +17,7 @@
     "bookshelf-modelbase": "^2.10.4",
     "bookshelf-relationships": "^1.0.1",
     "joi": "^14.3.1",
-    "knex": "^0.20.1",
+    "knex": "^2.4.0",
     "nodemon": "^1.19.4",
     "objection": "^1.6.11",
     "pg": "^7.12.1",
